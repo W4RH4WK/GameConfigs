@@ -18,4 +18,4 @@ To convert sensitivty values I commonly use [mouse-sensitivity.com].
 
     Resultion:          1920x1080 (16:9)
     Typical FOV:        120
-    Typical Crosshair:  Dot 2x2 pixel
+    Typical Crosshair:  Dot 4x4 pixel
