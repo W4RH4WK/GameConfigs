@@ -2,7 +2,7 @@
 
 ## Mouse Settings
 
-    Model:                 Logitech G400
+    Model:                 Mionix Castor
     Driver Settings:       1600 DPI @ 500 Hz
     Windows Sensitivty:    6 / 11
     Windows Acceleration:  off
@@ -16,6 +16,6 @@ To convert sensitivty values I commonly use [mouse-sensitivity.com].
 
 ## Video Settings
 
-    Resultion:          1920x1080 (16:9)
+    Resultion:          3440x1440 @ 100 Hz
     Typical FOV:        120
     Typical Crosshair:  Dot 4x4 pixel
